@@ -1,0 +1,10 @@
+/home/loic/RiderProjects/MvcApp-ECommerce/MvcApp-ECommerce/bin/Debug/netcoreapp2.0/MvcApp-ECommerce.deps.json
+/home/loic/RiderProjects/MvcApp-ECommerce/MvcApp-ECommerce/bin/Debug/netcoreapp2.0/MvcApp-ECommerce.runtimeconfig.json
+/home/loic/RiderProjects/MvcApp-ECommerce/MvcApp-ECommerce/bin/Debug/netcoreapp2.0/MvcApp-ECommerce.runtimeconfig.dev.json
+/home/loic/RiderProjects/MvcApp-ECommerce/MvcApp-ECommerce/bin/Debug/netcoreapp2.0/MvcApp-ECommerce.dll
+/home/loic/RiderProjects/MvcApp-ECommerce/MvcApp-ECommerce/bin/Debug/netcoreapp2.0/MvcApp-ECommerce.pdb
+/home/loic/RiderProjects/MvcApp-ECommerce/MvcApp-ECommerce/obj/Debug/netcoreapp2.0/MvcApp-ECommerce.csproj.CoreCompileInputs.cache
+/home/loic/RiderProjects/MvcApp-ECommerce/MvcApp-ECommerce/obj/Debug/netcoreapp2.0/MvcApp-ECommerce.AssemblyInfoInputs.cache
+/home/loic/RiderProjects/MvcApp-ECommerce/MvcApp-ECommerce/obj/Debug/netcoreapp2.0/MvcApp-ECommerce.AssemblyInfo.cs
+/home/loic/RiderProjects/MvcApp-ECommerce/MvcApp-ECommerce/obj/Debug/netcoreapp2.0/MvcApp-ECommerce.dll
+/home/loic/RiderProjects/MvcApp-ECommerce/MvcApp-ECommerce/obj/Debug/netcoreapp2.0/MvcApp-ECommerce.pdb
